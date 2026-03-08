@@ -1,0 +1,17 @@
+[package]
+name = "canopy"
+version = "0.1.0"
+edition = "2021"
+description = "A fast, interactive disk space visualizer using treemaps"
+license = "MIT"
+authors = ["Antonin"]
+
+[dependencies]
+eframe = "0.33"
+jwalk = "0.8"
+rfd = "0.17"
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+bincode = "1"
+rayon = "1"
+libc = "0.2"

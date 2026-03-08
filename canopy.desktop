@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Canopy
+Comment=Disk space visualizer
+Exec=canopy
+Icon=canopy
+Categories=Utility;System;
+Terminal=false
