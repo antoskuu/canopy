@@ -1,11 +1,13 @@
-<p align="center">
-<img width="256" height="256" alt="canopy" src="https://github.com/user-attachments/assets/8b8fb294-f8f9-4f67-9213-047e83352bc7" />
-<p/>
 # Canopy
+
+<p align="center">
+<img width="128" height="128" alt="canopy" src="https://github.com/user-attachments/assets/8b8fb294-f8f9-4f67-9213-047e83352bc7" />
+<p/>
+
 
 A fast, interactive disk space visualizer using treemaps. Built with Rust and egui.
 
-<img width="1024" height="736" alt="image" src="https://github.com/user-attachments/assets/5225f15d-6fa1-4953-9e75-e6b515e4b8de" />
+<img style="border-radius: 50;" width="1024" height="736" alt="image" src="https://github.com/user-attachments/assets/5225f15d-6fa1-4953-9e75-e6b515e4b8de" />
 
 ## Features
 
