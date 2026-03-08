@@ -2,6 +2,8 @@
 
 A fast, interactive disk space visualizer using treemaps. Built with Rust and egui.
 
+<img width="1024" height="736" alt="image" src="https://github.com/user-attachments/assets/5225f15d-6fa1-4953-9e75-e6b515e4b8de" />
+
 ## Features
 
 - **Treemap visualization** — see where your disk space goes at a glance
