@@ -1,3 +1,6 @@
+<p align="center">
+<img width="256" height="256" alt="canopy" src="https://github.com/user-attachments/assets/8b8fb294-f8f9-4f67-9213-047e83352bc7" />
+<p/>
 # Canopy
 
 A fast, interactive disk space visualizer using treemaps. Built with Rust and egui.
